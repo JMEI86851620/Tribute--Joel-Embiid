@@ -1,0 +1,17 @@
+.image {
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+#tribute-into {
+  text-align: center;
+  color: white;
+}
